@@ -169,6 +169,7 @@ Transform:
   - {fileID: 673972621}
   m_Father: {fileID: 0}
   m_RootOrder: 3
+<<<<<<< HEAD
 --- !u!1 &876569375
 GameObject:
   m_ObjectHideFlags: 0
@@ -198,6 +199,8 @@ Transform:
   - {fileID: 249223562}
   m_Father: {fileID: 0}
   m_RootOrder: 4
+=======
+>>>>>>> a32c1a13404d1675a63b1bf480143d01d46e99e8
 --- !u!1 &1221794801
 GameObject:
   m_ObjectHideFlags: 0
@@ -258,6 +261,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
+<<<<<<< HEAD
 --- !u!1 &1313467747
 GameObject:
   m_ObjectHideFlags: 0
@@ -285,6 +289,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 876569376}
   m_RootOrder: 0
+=======
+>>>>>>> a32c1a13404d1675a63b1bf480143d01d46e99e8
 --- !u!1 &1619585869
 GameObject:
   m_ObjectHideFlags: 0
